@@ -321,7 +321,6 @@ section{
     }
 
     .home-img {
-        display: flex;
         flex-direction: column;
         align-items: center;
     }
