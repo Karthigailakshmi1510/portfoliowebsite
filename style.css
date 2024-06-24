@@ -321,7 +321,8 @@ section{
     }
 
     .home-img {
-        flex-direction: column;
+        display: flex;
+        flex-direction: column-reverse;
         align-items: center;
     }
 
